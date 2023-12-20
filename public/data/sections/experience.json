@@ -9,48 +9,36 @@
     "items": [
         {
             "id": "experience_item_1",
-            "place": "@link{places.uxStudio}",
-            "period": ["2015/01", "2017/12"],
+            "place": "@link{places.cuscapi}",
+            "period": ["2008/01", "2010/03"],
             "locales": {
                 "en": {
-                    "title": "UX Designer",
-                    "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs."
+                    "title": "TODO NKL get icons for companiesSystem Analyst",
+                    "description": "Being my first job, this attachment has landed me with bountiful experiences in terms of project management and user-centered programming. Major exposure technically, especially on Web-based Java programming language and MS SQL database. Was involved in 5 projects through the course of the attachment, excluding prototype-based."
                 }
             }
         },
 
         {
             "id": "experience_item_2",
-            "place": "@link{places.adobe}",
-            "period": ["2018/01", "2020/08"],
+            "place": "@link{places.freelance}",
+            "period": ["2010/03", "2017/01"],
             "locales": {
                 "en": {
-                    "title": "Senior UI/UX Designer",
-                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products."
+                    "title": "TODO NKL verify date of start dpsbSoftware Engineer",
+                    "description": "Acquire projects, and overlook the project from planning to deployment and provide maintenance as required and agreed upon."
                 }
             }
         },
 
         {
             "id": "experience_item_3",
-            "place": "@link{places.apple}",
-            "period": ["2020/09", "2022/09"],
+            "place": "@link{places.dynamicpodium}",
+            "period": ["2017/01", "2023/11"],
             "locales": {
                 "en": {
-                    "title": "Lead UX Designer",
-                    "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction."
-                }
-            }
-        },
-
-        {
-            "id": "experience_item_4",
-            "place": "@link{places.coursera}",
-            "period": ["2022/10", "now"],
-            "locales": {
-                "en": {
-                    "title": "UX Design Full-Time Professor",
-                    "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers."
+                    "title": "TODO NKL contentTechnical Team Lead",
+                    "description": "Lorem Ipsum."
                 }
             }
         }

@@ -30,7 +30,6 @@
         {
             "id": "languages",
             "type": "list",
-            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
             "faIcon": "fa fa-language",
             "locales": {
                 "en": {"title": "Languages"}
@@ -182,36 +181,25 @@
             {
                 "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
-                "value": 100,
                 "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."}
+                    "en": {"title": "English", "subtitle": "Fluent", "description": "Fluent in both spoken and written English; confident in professional communication."}
                 }
             },
 
             {
-                "imageIconUrl": "images/flags/es.png",
+                "imageIconUrl": "images/flags/my.png",
                 "faIcon": null,
-                "value": 90,
                 "locales": {
-                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."}
+                    "en": {"title": "Bahasa Malaysia", "subtitle": "Fluent", "description": "Fluent in both spoken and written Bahasa Malaysia; confident in professional communication."}
                 }
             },
 
             {
-                "imageIconUrl": "images/flags/vn.png",
+                "imageIconUrl": "images/flags/zh.png",
                 "faIcon": null,
                 "value": 40,
                 "locales": {
-                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/pt.png",
-                "faIcon": null,
-                "value": 10,
-                "locales": {
-                    "en": {"title": "Brazilian Portuguese", "description": "Basic understanding of Brazilian Portuguese; learning and improving."}
+                    "en": {"title": "Chinese", "subtitle": "Conversational", "description": "Intermediate command on conversational Chinese only."}
                 }
             }
         ],

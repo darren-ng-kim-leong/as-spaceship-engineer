@@ -69,5 +69,39 @@
         "locales": {
             "en": {"name": "UX Masters Studio"}
         }
+    },
+
+
+    "inti": {
+        "logoUrl": "images/places/logo-inti.png",
+        "faIcon": "fa fa-university",
+        "locales": {
+            "en": {"name": "INTI College"}
+        }
+    },
+    "cuscapi": {
+        "logoUrl": "images/places/logo-cuscapi.png",
+        "faIcon": "fa fa-building",
+        "locales": {
+            "en": {"name": "Cuscapi Sdn Bhd"}
+        }
+    },
+    "dynamicpodium": {
+        "logoUrl": "images/places/logo-dynamicpodium.png",
+        "faIcon": "fa fa-building",
+        "locales": {
+            "en": {"name": "Dynamic Podium Sdn Bhd / Gamer2Gamer Sdn Bhd"}
+        }
+    },
+    "freelance": {
+        "logoUrl": "images/places/logo-freelance.png",
+        "faIcon": "fa fa-users",
+        "locales": {
+            "en": {"name": "Freelance"}
+        }
     }
+
+
+
+
 }
