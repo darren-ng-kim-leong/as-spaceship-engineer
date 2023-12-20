@@ -1,31 +1,3 @@
-# [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/) by Ryan Balieiro
-
-This theme offers a simple and clean design tailored for creating user-friendly website resumes or CV landing pages. It's built using Vue 3.0 (Composition API) and Bootstrap 5, presenting a cohesive one-page layout that blends functionality and aesthetics.
-
-Key features:
-- An anchored fixed side navigation bar for smooth scrolling through the page.
-- Six custom section layouts showcasing work experience, educational background, professional skills, portfolio, and more.
-- A tailored navigation mode specifically for mobile screens.
-- Multi-language translation support included.
-- Using Vite for faster build times and seamless integration.
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
-
-## Preview
-
-Check out a live version of the template **[here](https://ryanbalieiro.github.io/vue-resume-template/).**
-
-### 1. Desktop Screenshots
-
-![alt desktop](screenshots/desktop-previews.png)
-
-### 2. Mobile Screenshots
-
-![alt mobile](screenshots/mobile-previews.png)
-
 ## Getting Started
 
 1. Clone the repo:
@@ -69,10 +41,6 @@ $primary: #13a452; /** changing the 'primary' color to green **/
 $dark: #021307; /** changing the 'dark' color to a dark shade of green **/
 $background-color: #f8fff8; 
 ```
-
-Resulting in:
-
-![alt green](screenshots/color-changing-preview.png)
 
 ### 3. Adding and removing languages
 
@@ -226,12 +194,6 @@ npm run deploy
 
 This step serves as a solution to the problem discussed in detail at https://stackoverflow.com/questions/48521177/404-when-reloading-a-vue-website-published-to-github-pages. By following this workaround, we can prevent the application from encountering a 404 error upon reloading specific routes within the app that are not the homepage.
 
-## About
+## Reference
 
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
-
-It's based on the [Bootstrap](https://getbootstrap.com/) framework created by Mark Otto and Jacob Thorton; and the [Vue](https://vuejs.org/) framework created by Evan You.
-
-## Copyright and License
-
-Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license, providing complete freedom for utilization. Feel free to enhance and adapt it to suit your needs.
+This resume is based on [Vue Resume Template](https://ryanbalieiro.github.io/vue-resume-template/) by **[Ryan Balieiro](https://ryanbalieiro.com/)**

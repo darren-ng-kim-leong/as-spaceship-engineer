@@ -43,10 +43,7 @@
         "logoUrl": "images/places/logo-harvard.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
-            "es": {"name": "Universidad de Harvard"},
-            "fr": {"name": "Université Harvard"},
-            "zh": {"name": "哈佛大学"}
+            "en": {"name": "Harvard University"}
         }
     },
 
@@ -54,10 +51,7 @@
         "logoUrl": "images/places/logo-paris-university.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "University of Paris"},
-            "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
-            "zh": {"name": "巴黎大学"}
+            "en": {"name": "University of Paris"}
         }
     },
 
