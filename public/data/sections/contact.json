@@ -1,5 +1,5 @@
 {
-    "enableContactForm": true,
+    "enableContactForm": false,
     
     "locales": {
         "en": {
