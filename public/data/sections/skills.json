@@ -13,7 +13,7 @@
             "progress": null,
             "faIcon": "fa-solid fa-square",
             "locales": {
-                "en": {"title": null}
+                "en": {"title": "TODO NKL set nice descriptionsnull"}
             }
         },
 
@@ -23,7 +23,7 @@
             "progress": "number",
             "faIcon": "fa fa-code",
             "locales": {
-                "en": {"title": "Programming"}
+                "en": {"title": "TODO NKL set correct rate and yr of expProgramming"}
             }
         },
 
@@ -42,7 +42,7 @@
             "progress": null,
             "faIcon": "fa fa-marker",
             "locales": {
-                "en": {"title": "Bonus Skills"}
+                "en": {"title": "TODO NKL set nice descriptionsBonus Skills"}
             }
         }
     ],
@@ -90,7 +90,7 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Cloud System and Server Administration",
+                        "title": "Cloud System and Service Administration",
                         "description": ""
                     }
                 }
@@ -230,7 +230,7 @@
                 "faIcon": "fab fa-php",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Yii2", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
+                    "en": {"title": "Yii2", "description": ""}
                 }
             },
             {
@@ -238,7 +238,7 @@
                 "faIcon": "fab fa-bootstrap",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Bootstrap 5", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
+                    "en": {"title": "Bootstrap 5", "description": ""}
                 }
             },
             {

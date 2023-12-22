@@ -32,11 +32,11 @@
         },
 
         {
-            "id": "education",
+            "id": "experience",
             "categoryId": "background",
             "component": "TimelineSection",
-            "jsonPath": "data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
+            "jsonPath": "data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
         },
 
         {
@@ -48,19 +48,11 @@
         },
 
         {
-            "id": "experience",
+            "id": "education",
             "categoryId": "background",
             "component": "TimelineSection",
-            "jsonPath": "data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
-
-        {
-            "id": "achievements",
-            "categoryId": "showcase",
-            "component": "ThreadsSection",
-            "jsonPath": "data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
+            "jsonPath": "data/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap"
         },
 
         {
