@@ -166,17 +166,6 @@ const _sendMessage = (values) => {
 
 ## Building for production
 
-Open the `vite.config.js` file and set the base directory for your application. This setting defines the main path that your website will be hosted under.
-
-```js
-export default defineConfig({
-  base: '/vue-resume-template',
-  plugins: [vue()],
-})
-```
-
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/vue-resume-template/`, the correct base directory to set is `/vue-resume-template`. This ensures that the application's resources are correctly loaded and linked when accessed from this URL.
-
 To compile your project for production, execute:
 
 ```
