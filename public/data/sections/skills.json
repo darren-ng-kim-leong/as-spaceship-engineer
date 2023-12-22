@@ -55,8 +55,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Design Principles",
-                        "description": "Highly skilled at crafting visually appealing designs using fundamental principles of color theory, typography, layout composition, and balance to captivate viewers and convey messages effectively."
+                        "title": "Setup CI Pipeline",
+                        "description": ""
                     }
                 }
             },
@@ -67,8 +67,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Responsive Layouts",
-                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience by seamlessly adjusting design elements and content to different screen sizes."
+                        "title": "End-to-end Solution and System Architecting",
+                        "description": ""
                     }
                 }
             },
@@ -78,8 +78,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Usability Testing",
-                        "description": "Enhancing user experiences through comprehensive usability testing, ensuring optimal functionality and user satisfaction."
+                        "title": "Data Design",
+                        "description": ""
                     }
                 }
             },
@@ -90,32 +90,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Wireframing",
-                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-expand-arrows-alt",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Interaction Design",
-                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-laptop-code",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Prototyping",
-                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement, ensuring functional and engaging end products."
+                        "title": "Cloud System and Server Administration",
+                        "description": ""
                     }
                 }
             }
@@ -154,7 +130,7 @@
                 "faIcon": "fab fa-js-square",
                 "value": 85,
                 "locales": {
-                    "en": {"title": "JavaScript", "description": "Experience Time: 3 years"}
+                    "en": {"title": "Web JavaScript", "description": "Experience Time: 3 years"}
                 }
             },
 
@@ -169,10 +145,46 @@
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-react",
+                "faIcon": "fab fa-php",
                 "value": 75,
                 "locales": {
-                    "en": {"title": "React", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"}
+                    "en": {"title": "PHP", "description": "Experience time: 1 year"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-python",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "Python", "description": "Experience time: 1 year"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "MySQL", "description": "Experience time: 1 year"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "Transactional DB", "description": "Experience time: 1 year, mostly MySQL"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "NoSQL DB", "description": "Experience time: 1 year, mostly AWS DynamoDB"}
                 }
             }
         ],
@@ -207,50 +219,34 @@
         "extra": [
             {
                 "imageIconUrl": null,
-                "faIcon": null,
+                "faIcon": "fab fa-aws",
                 "value": null,
                 "locales": {
-                    "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."}
+                    "en": {"title": "AWS Cloud Services", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
                 }
             },
             {
                 "imageIconUrl": null,
-                "faIcon": null,
+                "faIcon": "fab fa-php",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Front-End Development", "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."}
+                    "en": {"title": "Yii2", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
                 }
             },
             {
                 "imageIconUrl": null,
-                "faIcon": null,
+                "faIcon": "fab fa-bootstrap",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Information Visualization", "description": "Able to transform complex data into clear visuals."}
+                    "en": {"title": "Bootstrap 5", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
                 }
             },
             {
                 "imageIconUrl": null,
-                "faIcon": null,
+                "faIcon": "fas fa-code-branch",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Accessibility and Inclusive Design", "description": "Able to create digital experiences that are accessible to all."}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": null,
-                "value": null,
-                "locales": {
-                    "en": {"title": "User-Centric Data Analysis", "description": "Proficient in analyzing data with a focus on the needs and preferences of users, enabling data-driven decisions that align with user expectations."}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": null,
-                "value": null,
-                "locales": {
-                    "en": {"title": "Mobile App User Experience", "description": "Skilled in crafting user-centered experiences within mobile applications, ensuring smooth and intuitive interactions."}
+                    "en": {"title": "GIT Repository Management", "description": ""}
                 }
             }
         ]

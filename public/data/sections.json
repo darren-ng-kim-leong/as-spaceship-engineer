@@ -56,14 +56,6 @@
         },
 
         {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
-        },
-
-        {
             "id": "achievements",
             "categoryId": "showcase",
             "component": "ThreadsSection",
