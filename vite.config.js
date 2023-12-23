@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue-resume',
+  base: '/as-spaceship-engineer',
   plugins: [vue()],
 })

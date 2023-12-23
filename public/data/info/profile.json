@@ -5,16 +5,16 @@
     "locales": {
         "en": {
             "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Fullstack Engineer<br />Solution Architect Consultant"
+            "role": "Spaceship Engineer"
         }
     },
 
     "contact": {
         "address": {
             "id": "address",
-            "value": "Kuala Lumpur, Malaysia",
-            "valueShort": "Kuala Lumpur, Malaysia",
-            "faIcon": "fa-solid fa-city",
+            "value": "Malaysia, Earth",
+            "valueShort": "Malaysia, Earth",
+            "faIcon": "fa-solid fa-globe-asia",
             "href": null
         },
 
@@ -32,14 +32,6 @@
             "valueShort": "@darren-ng-kim-leong",
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com/darren-ng-kim-leong"
-        },
-
-        "linkedin": {
-            "id": "linkedin",
-            "value": "@darren-ng-kim-leong",
-            "valueShort": "@darren-ng-kim-leong",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://www.linkedin.com/in/darren-ng-kim-leong/"
         }
     }
 }

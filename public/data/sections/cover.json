@@ -9,7 +9,6 @@
 
     "items": {
         "socialCircles": [
-            "@link{profile.contact.linkedin}",
             "@link{profile.contact.github}"
         ],
 
