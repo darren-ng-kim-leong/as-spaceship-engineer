@@ -84,6 +84,13 @@ const orderedItems = computed(() => {
  */
 const _formatItemDate = (item) => {
     const period = item['period']
+    if (period.length == 1) {
+        const date = utils.localizeDate(period[0], language.getSelectedLanguage()['id'])
+        return [{
+            faIcon: 'fa fa-calendar-check',
+            label: date
+        }]
+    }
     const from = utils.localizeDate(period[0], language.getSelectedLanguage()['id'])
     const to = utils.localizeDate(period[1], language.getSelectedLanguage()['id'])
 
