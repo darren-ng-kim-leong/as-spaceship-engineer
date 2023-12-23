@@ -20,10 +20,10 @@
 
         "email": {
             "id": "email",
-            "value": "darren.ng.kim.leong@proton.me",
-            "valueShort": "darren.ng.kim.leong@proton.me",
+            "value": "darren.ng.kim.leong+as-spaceship-engineer@proton.me",
+            "valueShort": "darren.ng.kim.leong+as-spaceship-engineer@proton.me",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:darren.ng.kim.leong@proton.me"
+            "href": "mailto:darren.ng.kim.leong+as-spaceship-engineer@proton.me"
         },
 
         "github": {

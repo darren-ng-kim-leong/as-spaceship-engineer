@@ -2,47 +2,28 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Skill</span> Set",
-            "description": "Exploring the diverse range of skills I've acquired and developed:"
+            "description": "They say attitude is more important."
         }
     },
 
     "subcategories": [
         {
             "id": "abilities",
-            "type": "list",
+            "type": "grid",
             "progress": null,
             "faIcon": "fa-solid fa-square",
             "locales": {
-                "en": {"title": "TODO NKL set nice descriptionsnull"}
+                "en": {"title": null}
             }
         },
 
         {
-            "id": "programming",
-            "type": "grid",
-            "progress": "number",
-            "faIcon": "fa fa-code",
-            "locales": {
-                "en": {"title": "TODO NKL set correct rate and yr of expProgramming"}
-            }
-        },
-
-        {
-            "id": "languages",
+            "id": "commitment",
             "type": "list",
-            "faIcon": "fa fa-language",
-            "locales": {
-                "en": {"title": "Languages"}
-            }
-        },
-
-        {
-            "id": "extra",
-            "type": "grid",
             "progress": null,
-            "faIcon": "fa fa-marker",
+            "faIcon": null,
             "locales": {
-                "en": {"title": "TODO NKL set nice descriptionsBonus Skills"}
+                "en": {"title": "I commit to:"}
             }
         }
     ],
@@ -51,11 +32,11 @@
         "abilities": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-paint-roller",
+                "faIcon": "fas fa-sun",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Setup CI Pipeline",
+                        "title": "Patient",
                         "description": ""
                     }
                 }
@@ -63,193 +44,103 @@
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-mobile-alt",
+                "faIcon": "fas fa-brain",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "End-to-end Solution and System Architecting",
+                        "title": "Fast Learner",
                         "description": ""
                     }
                 }
             },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-bolt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Quick Thinking and Witty",
+                        "description": ""
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-cogs",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Efficiency-centric",
+                        "description": ""
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-puzzle-piece",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Adaptable",
+                        "description": ""
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Team Player",
+                        "description": ""
+                    }
+                }
+            }
+
+        ],
+
+        "commitment": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-check",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Work my rear off",
+                        "description": ""
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-check",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Learn and master",
+                        "description": ""
+                    }
+                }
+            },
+
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-check-double",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Data Design",
-                        "description": ""
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-vector-square",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Cloud System and Service Administration",
+                        "title": "Out-perform and Over-achieve",
                         "description": ""
                     }
                 }
             }
-        ],
 
-        "programming": [
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-html5",
-                "value": 95,
-                "locales": {
-                    "en": {"title": "HTML 5", "description": "Experience Time: 5 years"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-css3-alt",
-                "value": 90,
-                "locales": {
-                    "en": {"title": "CSS 3", "description": "Experience Time: 3 years"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-sass",
-                "value": 65,
-                "locales": {
-                    "en": {"title": "Sass/Less", "description": "Experience Time: 2 years"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-js-square",
-                "value": 85,
-                "locales": {
-                    "en": {"title": "Web JavaScript", "description": "Experience Time: 3 years"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-vuejs",
-                "value": 100,
-                "locales": {
-                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-php",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "PHP", "description": "Experience time: 1 year"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-python",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "Python", "description": "Experience time: 1 year"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-database",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "MySQL", "description": "Experience time: 1 year"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-database",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "Transactional DB", "description": "Experience time: 1 year, mostly MySQL"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-database",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "NoSQL DB", "description": "Experience time: 1 year, mostly AWS DynamoDB"}
-                }
-            }
-        ],
-
-        "languages": [
-            {
-                "imageIconUrl": "images/flags/en.png",
-                "faIcon": null,
-                "locales": {
-                    "en": {"title": "English", "subtitle": "Fluent", "description": "Fluent in both spoken and written English; confident in professional communication."}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/my.png",
-                "faIcon": null,
-                "locales": {
-                    "en": {"title": "Bahasa Malaysia", "subtitle": "Fluent", "description": "Fluent in both spoken and written Bahasa Malaysia; confident in professional communication."}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/zh.png",
-                "faIcon": null,
-                "value": 40,
-                "locales": {
-                    "en": {"title": "Chinese", "subtitle": "Conversational", "description": "Intermediate command on conversational Chinese only."}
-                }
-            }
-        ],
-
-        "extra": [
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-aws",
-                "value": null,
-                "locales": {
-                    "en": {"title": "AWS Cloud Services", "description": "S3, SQS, SNS / EB, EC2, Lambda, DynamoDB (plus Stream), API Gateway (plus Authorizer), Cognito"}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-php",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Yii2", "description": ""}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-bootstrap",
-                "value": null,
-                "locales": {
-                    "en": {"title": "Bootstrap 5", "description": ""}
-                }
-            },
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-code-branch",
-                "value": null,
-                "locales": {
-                    "en": {"title": "GIT Repository Management", "description": ""}
-                }
-            }
         ]
-
     }
 }
