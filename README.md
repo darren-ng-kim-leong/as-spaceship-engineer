@@ -2,7 +2,7 @@
 
 1. Clone the repo:
 ```
-git clone https://github.com/ryanbalieiro/vue-resume-template
+git clone git@github.com:darren-ng-kim-leong/as-spaceship-engineer.git
 ```
 
 2. Navigate to the root directory of the project and install all dependencies with npm:
