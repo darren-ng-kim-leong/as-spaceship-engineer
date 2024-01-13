@@ -10,7 +10,7 @@
         <h4 class="nav-profile-card-title lead-2">{{ props.profileData['name'] }}</h4>
 
         <!-- Role -->
-        <h6 class="nav-profile-card-subtitle text-4 mb-1">{{ props.profileData['locales']['role'] }}</h6>
+        <h6 class="nav-profile-card-subtitle text-4 mb-1" v-html="props.profileData['locales']['role']" />
     </div>
 </template>
 

@@ -19,7 +19,7 @@
             <div v-else class="info-item-content-header">
                 <p class="text-light-7 text-4 mb-0">
                     <strong>{{item['locales']['title']}}</strong>
-                    <span class="text-3" v-if="item['formattedPercentage']"> – {{item['formattedPercentage']}}</span>
+                    <span class="text-3" v-if="item['formattedPercentage'] || item['locales']['subtitle']"> – {{ item['formattedPercentage'] ?? (item['locales']['subtitle'] ?? '') }}</span>
                 </p>
             </div>
 
