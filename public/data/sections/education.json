@@ -10,11 +10,11 @@
         {
             "id": "foundation",
             "place": "@link{places.inti}",
-            "period": ["2004/01", "2005/01"],
+            "period": ["2004/04", "2005/04"],
 
             "locales": {
                 "en": {
-                    "title": "TODO NKL verify datesFoundation in Computer Science",
+                    "title": "Foundation in Computer Science",
                     "description": "Graduated with Dean's list."
                 }
             }
@@ -23,11 +23,11 @@
         {
             "id": "degree",
             "place": "@link{places.inti}",
-            "period": ["2005/01", "2007/01"],
+            "period": ["2005/04", "2007/08"],
 
             "locales": {
                 "en": {
-                    "title": "TODO NKL verify awardsBachelor of Science & Technology (Computer Science)",
+                    "title": "Bachelor of Science & Technology (Computer Science)",
                     "description": "Graduated with 1st Class Degree, Valedictorian."
                 }
             }
